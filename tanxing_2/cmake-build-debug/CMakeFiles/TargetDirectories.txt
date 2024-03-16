@@ -1,0 +1,3 @@
+/Users/liaoyunhao/CLionProjects/tanxing_2/cmake-build-debug/CMakeFiles/tanxing_2.dir
+/Users/liaoyunhao/CLionProjects/tanxing_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liaoyunhao/CLionProjects/tanxing_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
